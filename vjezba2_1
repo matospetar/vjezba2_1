@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja web stranica</title>
+</head>
+
+<body>
+
+    <h1>Najnovije vijesti</h1>
+
+    <h2>Aktualna događanja</h2>
+
+    <p>
+        Hrvatska je zemlja bogate povijesti, kulture i prirodnih ljepota.
+        Svakodnevno se održavaju različita zanimljiva događanja.
+    </p>
+
+    <p>
+        Brojni gradovi nude različite kulturne, sportske i zabavne sadržaje
+        koji privlače građane i posjetitelje.
+    </p>
+
+    <figure>
+        <a href="https://sl.bing.net/galA6PERQsu" target="_blank">
+            <img src="https://sl.bing.net/galA6PERQsu" alt="Prva slika" width="300">
+        </a>
+        <figcaption>Prva slika – aktualno događanje</figcaption>
+    </figure>
+
+    <figure>
+        <a href="images/slika2.jpg" target="_blank">
+            <img src="images/slika2.jpg" alt="Druga slika" width="300">
+        </a>
+        <figcaption>Druga slika – događanje u Hrvatskoj</figcaption>
+    </figure>
+
+</body>
+</html>
